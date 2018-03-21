@@ -127,13 +127,6 @@ with open("eng.guessa", "w") as variable_file:
         variable_file.write("\n")
 
 
-# In[5]:
-
-character = 'A'
-if character.isupper() == True:
-    print('a')
-
-
 # In[ ]:
 
 
