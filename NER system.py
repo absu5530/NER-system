@@ -126,8 +126,3 @@ with open("eng.guessa", "w") as variable_file:
             variable_file.write("\n")
         variable_file.write("\n")
 
-
-# In[ ]:
-
-
-
