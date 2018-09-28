@@ -7,4 +7,4 @@ The conllevel.perl can be used to determine accuracy, precision, recall and F1 s
 
 perl conlleval.perl < eng.guessa
 
-Results in Results.txt
+Results split by type of named entity in Results.txt
