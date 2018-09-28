@@ -6,3 +6,5 @@ A Named Entity Recognition system for the English dataset in the CoNLL 2003 shar
 The conllevel.perl can be used to determine accuracy, precision, recall and F1 scores for all the tags. The command for this is:
 
 perl conlleval.perl < eng.guessa
+
+Results in Results.txt
